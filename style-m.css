@@ -1,0 +1,116 @@
+/* Navbar */
+
+
+.navbar-custom {
+    background: linear-gradient(rgb(116, 211, 131), rgb(72, 180, 112));
+    text-transform: uppercase;
+    border-width: 1px;
+    border-color: transparent;
+}
+/* .spin-1 {
+ background-color: linear-gradient(yellow, orange);
+ 
+} */
+
+
+body 
+.text-card {
+    font-family:Gilroy,Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-weight: 600;
+
+    color: blanchedalmond;
+    
+}
+/* Header */
+
+.body-1 {
+    background-color: rgb(233, 233, 233);
+}
+
+.main-card {
+    border-radius: bottom 2px;
+}
+
+
+.btn-slider-arrow {
+    background-color: rgba(56, 49, 49, 0.616);
+}
+
+.no-border {
+    
+}
+
+/* Main */
+
+.img-service {
+    width: 150px;
+    transition: all;
+    transition: 500ms;
+    box-shadow: 0px 2px 3px 3px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.img-service:hover {
+    transform: scale(1.1);
+
+}
+
+.border-bottom{
+    border-bottom: 5px solid #050505;
+}
+hr{
+    color: aliceblue;
+}
+
+.title-sec-1 {
+    font-family:Gilroy,Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-weight: 700;
+    
+}
+
+.title-sec-2 {
+    font-family:Gilroy,Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+       
+}
+
+.title-sec {
+    font-family:Gilroy,Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-weight: 300; 
+    
+}
+
+
+
+
+
+.nav-tab {
+    background: linear-gradient(yellow, orange);
+    border-radius: 6px;
+    
+}
+
+.div-sec {
+    background-color: rgb(233, 233, 233);
+}
+
+
+.hr-1 {
+    background-color: rgb(220, 220, 215);
+    margin: 20px;
+    border-radius: 7px;
+    
+}
+
+.card-1 {
+    width: 500px;
+    box-shadow: 0px 5px 8px 6px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+.img-tab-1 {
+    width: 50px;
+    height: 50px;
+    justify-content: flex-end;
+    border-radius: 3px;
+
+}
